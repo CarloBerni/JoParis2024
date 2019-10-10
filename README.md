@@ -8,5 +8,4 @@ React
 ### Back
 PHP et son Framework Symfony
 
-### Docker
-DockerFile et docker-composes
+
