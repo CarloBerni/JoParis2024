@@ -6,6 +6,6 @@ Premier Repo pour les Jeux Olympiques de Paris 2024
 React
 
 ### Back
-PHP et son Framework Symfony
+PHP + Symfony 
 
 
